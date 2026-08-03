@@ -1,1358 +1,1225 @@
-# Progress — Computer Science & Systems Curriculum
+# Progress — Source-Grounded Curriculum
 
-## Profile
-- Start date:
-- Weekly time budget:
+## Current location
+
 - Current phase: P0
-- Current week: 1
-- Preferred study days:
-- Capstone working title:
-
-## Baseline
-- Python:
-- Java:
-- C:
-- Data structures:
-- Algorithms:
-- Discrete mathematics/proofs:
-- Computer architecture:
-- Operating systems:
-- Databases:
-- Networking:
-- Security:
-- Distributed systems:
-- System-design writing:
-
-## Phase gates
-
-- [ ] P0 — Baseline, decomposition and learning system (Weeks 1–2)
-- [ ] P1 — Programming abstractions and software construction (Weeks 3–8)
-- [ ] P2 — Discrete mathematics, probability and proof (Weeks 9–14)
-- [ ] P3 — Data structures and algorithms (Weeks 15–24)
-- [ ] P4 — Machine structures and computer architecture (Weeks 25–32)
-- [ ] P5 — Operating systems and systems programming (Weeks 33–42)
-- [ ] P6 — Database systems (Weeks 43–48)
-- [ ] P7 — Networking and security (Weeks 49–54)
-- [ ] P8 — Distributed systems, system design and capstone (Weeks 55–60)
-
-## Weekly record
-
-### Week 01 — Baseline diagnostic and curriculum setup
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 02 — Problem specification, decomposition and testing
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 03 — Expressions, functions and environment models
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 04 — Recursion and recursive problem decomposition
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 05 — Higher-order functions and abstraction barriers
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 06 — Data abstraction, objects and mutation
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 07 — Functional programming, Scheme and interpreters
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 08 — Declarative programming, SQL and phase project
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 09 — Logic, sets and proof structure
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 10 — Induction, recursion and invariants
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 11 — Graphs, relations and state machines
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 12 — Number theory and cryptographic reasoning
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 13 — Counting and discrete probability
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 14 — Random variables, expectation, recurrences and asymptotics
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 15 — Java, static types, references and testing
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 16 — Linked lists, deques and representation invariants
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 17 — Resizable arrays, generics and API design
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 18 — Trees, search trees and balanced indexing
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 19 — Hash tables, sets and workload-driven choices
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 20 — Heaps, priority queues and disjoint sets
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 21 — Sorting, selection and empirical algorithm analysis
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 22 — Graph traversal, topological order and components
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 23 — Shortest paths and minimum spanning trees
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 24 — Algorithm paradigms and phase project
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 25 — C execution model, pointers and memory ownership
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 26 — Bits, integers, floating point and data representation
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 27 — RISC-V assembly and calling conventions
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 28 — Compilation, linking, object files and loaders
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 29 — Digital logic, datapaths and instruction execution
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 30 — Pipelining and performance reasoning
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 31 — Caches, locality and memory hierarchy
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 32 — Virtual memory, parallelism and architecture gate
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 33 — Operating-system roles, abstractions and system calls
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 34 — Processes, fork, exec, wait and signals
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 35 — File descriptors, pipes and shell execution
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 36 — Threads, races and nondeterminism
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 37 — Locks, condition variables and semaphores
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 38 — Deadlock, scheduling and liveness
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 39 — Address spaces, paging and replacement
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 40 — File systems, naming and storage layout
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 41 — Crash consistency, journaling and durable updates
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 42 — Sockets, OS integration and systems gate
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 43 — Relational model, SQL and query plans
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 44 — Pages, records and buffer pools
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 45 — B+ trees and hash indexes
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 46 — Query execution, joins and optimization
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 47 — Transactions, isolation and concurrency control
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 48 — WAL, recovery and database gate
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 49 — Ethernet, IP, routing and the packet path
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 50 — Reliable transport, flow and congestion control
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 51 — DNS, HTTP, TLS and service architecture
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 52 — Security principles, threat modeling and memory safety
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 53 — Cryptography, authentication and web security
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 54 — Network security and secure-service gate
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 55 — Distributed failures, time, RPC and idempotency
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
-
-
-### Week 56 — Replication, consistency and quorums
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
+- Current week: 01
+- Baseline file completed: no
+- Current official source:
+- Current official item:
+- Access status:
+- Evidence path:
+
+## P0 decision
+
+Complete `baseline.md` before filling this section.
+
+| Phase/week range | Decision | Evidence |
+|---|---|---|
+| P1 | | |
+| P2 | | |
+| P3 | | |
+| P4 | | |
+| P5 | | |
+
+## Weekly evidence
+
+### Week 01 — Placement A: programming, Java structures and proof
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 02 — Placement B: C, machine structures and operating-system prerequisites
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 03 — Functions, control, higher-order functions and environments
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 04 — Recursion and tree recursion
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 05 — Sequences, mutability, data abstraction and trees
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 06 — Iterators, generators, exceptions and object-oriented programming
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 07 — Linked structures, interfaces and efficiency
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 08 — Scheme, interpreters and declarative SQL
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 09 — Logic, sets, quantifiers and proof methods
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 10 — Induction, recursive definitions and state-machine invariants
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 11 — Asymptotics, recurrences and algorithmic cost
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 12 — Number theory, modular arithmetic and RSA foundations
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 13 — Graphs, partial orders, matching and counting
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 14 — Discrete probability, random variables and concentration
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 15 — Java, classes, references and testing
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 16 — Recursion, IntLists, SLLists, DLLists and array lists
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 17 — Inheritance, interfaces, iterators and polymorphism
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 18 — Asymptotics and disjoint sets
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 19 — Binary search trees, B-trees and red-black trees
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 20 — Heaps and priority queues
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 21 — Graph representations, BFS and DFS
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 22 — Shortest paths, minimum spanning trees and DAGs
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 23 — Hashing, tries and comparison-based sorting
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 24 — Dynamic programming and computational complexity
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 25 — Number representation and C foundations
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 26 — C memory management, generics, debugging and function pointers
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 27 — RISC-V instructions, registers and control flow
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 28 — Instruction formats, CALL and calling conventions
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 29 — Synchronous digital systems and CPU datapaths
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 30 — Pipelining and processor performance
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 31 — Caches and locality
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 32 — Parallelism and virtual memory
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 33 — OS abstractions, protection and system calls
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 34 — Processes, files, threads and I/O
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 35 — Synchronization: races, locks and atomicity
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 36 — Condition variables, semaphores and monitors
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 37 — Scheduling and deadlock
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 38 — Virtual memory: address spaces and paging
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 39 — Virtual memory: replacement, faults and memory homework
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 40 — General I/O, caches and file systems
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 41 — Crash consistency, reliability and distributed OS services
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 42 — OS synthesis and official cumulative assessment
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 43 — Relational model, SQL and database overview
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 44 — Storage managers and buffer pools
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 45 — Hash tables, indexes, filters and index concurrency
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 46 — Sorting, joins and query execution
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 47 — Query planning, transactions and concurrency control
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 48 — Logging, recovery and distributed databases
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 49 — Internet datagrams and byte streams
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 50 — TCP receiver and sender
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 51 — Measurement, network interfaces and IP routing
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 52 — Security principles, x86 review and memory safety
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 53 — Cryptographic building blocks and secure channels
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 54 — Web, authentication and network security
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 55 — MapReduce, RPC, Go and partial failure
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
+
+
+### Week 56 — Reliable RPC and a linearizable key/value service
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
 
 
 ### Week 57 — Consensus and Raft
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
 
 
-### Week 58 — Partitioning, streams and distributed transactions
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
+### Week 58 — Replicated state machines and fault-tolerant key/value storage
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
 
 
-### Week 59 — System design, capacity, SLOs and failure injection
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
+### Week 59 — Sharding, distributed transactions and cache consistency
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
 
 
-### Week 60 — Capstone completion, oral defense and next specialization
-- [ ] Started
-- [ ] Deliverable complete
-- [ ] Success criteria evidenced
-- Hours:
-- Repository path:
-- Tests:
-- Specification score (0–2):
-- Decomposition score (0–2):
-- Correctness score (0–2):
-- Testing score (0–2):
-- Algorithms/systems reasoning score (0–2):
-- Explanation score (0–2):
-- Total:
-- Concepts I can explain without notes:
-- Mistakes and corrected mental models:
-- Evidence links:
-- One unresolved question:
-- Next review date:
-- Decision: advance / repeat / remediation
+### Week 60 — System-design report, review and cumulative defense
+- Status: NOT-STARTED
+- Official source verified:
+- Official core item(s) attempted:
+- Access-blocked item(s):
+- Time:
+- Evidence path:
+- Solutions viewed after attempt:
+- Concepts explainable without notes:
+- Misconception corrected:
+- Source/topic comprehension (0–2):
+- Decomposition/reasoning (0–2):
+- Correctness (0–2):
+- Testing/checking (0–2):
+- Explanation without notes (0–2):
+- Correction quality (0–2):
+- Decision: NORMAL / REPEAT / REMEDIATION / COMPRESSED-REVIEW
+- Next retrieval date:
 
